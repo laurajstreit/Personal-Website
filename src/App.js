@@ -31,7 +31,7 @@ function Title() {
           <h1>Hiya, I'm Laura Streit</h1>
           <div id="subtitle">
             <h2>A multi-disciplinary creative working in the gaming industry.</h2>
-            <h3>I've worked in design, social media, marketing, and more!</h3>
+            <h3>I've worked in design, social media, marketing, and more! Test Test</h3>
           </div>
         </Col>
       </Row>
