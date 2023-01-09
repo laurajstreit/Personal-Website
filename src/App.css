@@ -3,12 +3,12 @@ body {
 }
 
 .App {
-  background-color: #170120;
+  background-color: #55649b;
   color: white;
 }
 
 .App-logo {
-  height: 50vmin;
+  height: 100vmin;
   pointer-events: none;
 }
 
@@ -30,16 +30,21 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4.5rem;
+  font-weight: 900;
+  font-style: normal;
+  text-align: center;
 }
 
 h3 {
-  margin-left: 5rem;
+  font-size: 1.5rem;
+  font-weight: 200;
+  text-align: center;
 }
 
 h4 {
-  margin-left: 10rem;
-  font-size: 1.2rem;
+  font-weight: 200;
+  text-align: center;
 }
 
 .App-link {

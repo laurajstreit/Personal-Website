@@ -26,8 +26,8 @@ function Title() {
   return(
     <Container fluid>
       <Row>
-        <Col xs={1}/>
-        <Col id="title" style={{marginLeft:100, marginTop: 50}}>
+        <Col xs={0.25}/>
+        <Col id="title" style={{marginTop:70, marginBottom:40}}>
           <h1>Hi👋I'm Laura Streit</h1>
           <div id="subtitle">
             <h3>A multi-disciplinary creative working in the gaming industry.</h3>

@@ -18,7 +18,7 @@ function OffcanvasExample() {
                 <Container fluid >
                 <Col xs={1}/>
                     <Navbar.Brand href="#" >
-                        <img width="100" height="100" src={lsLogo} />
+                        <img width="75" height="75" src={lsLogo} />
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-xxl`} />
                     <Navbar.Offcanvas
