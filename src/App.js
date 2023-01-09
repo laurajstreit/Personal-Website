@@ -27,11 +27,11 @@ function Title() {
     <Container fluid>
       <Row>
         <Col xs={1}/>
-        <Col id="title" style={{marginLeft:100}}>
-          <h1>Hiya, I'm Laura Streit</h1>
+        <Col id="title" style={{marginLeft:100, marginTop: 50}}>
+          <h1>Hi👋I'm Laura Streit</h1>
           <div id="subtitle">
-            <h2>A multi-disciplinary creative working in the gaming industry.</h2>
-            <h3>I've worked in design, social media, marketing, and more! Test Test</h3>
+            <h3>A multi-disciplinary creative working in the gaming industry.</h3>
+            <h4>I've worked with Nexon, HTC, and many other gaming brands!</h4>
           </div>
         </Col>
       </Row>
@@ -110,21 +110,6 @@ function App() {
       <Title />
       <Gallery />
       <Footer />
-      <header className="App-header">
-    
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload jhkjjhk.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React Yooo
-        </a>
-      </header>
     </div>
   );
 }
